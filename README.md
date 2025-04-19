@@ -1,6 +1,6 @@
 # ✈️ AI-Powered Travel Planner
 
-An intelligent travel planning web app built using **Streamlit**, **Gemini AI**, and **SerpAPI**.  
+An intelligent travel planning web app built using **Streamlit**, **Gemini AI**, **Agno agent** and **SerpAPI**.  
 It provides personalized flight, hotel, and activity recommendations based on your preferences.
 
 ## 🔥 Features
