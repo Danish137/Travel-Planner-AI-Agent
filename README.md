@@ -60,7 +60,7 @@ To set up the **Travel-Planner-AI-Agent** locally, follow these steps:
    ```
 
 5. **Set Up API Keys**
-   You need to set up API keys for SerpAPI.
+   You need to set up API keys for SerpAPI and GOOGLE_API_KEY in .env file.
 6. **Run the Application**
    Start the Streamlit application with the following command:
    ```bash
